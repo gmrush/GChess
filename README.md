@@ -1,5 +1,5 @@
 # GChess
-Fully functioning chess with included AI opponent (eventually)
+Fully functioning chess with included AI opponent
 
 ![GChess Interface](/gchess.png)
 
