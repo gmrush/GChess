@@ -1,7 +1,7 @@
 # GChess
 Fully functioning chess with included AI opponent
 
-![GChess Interface](/gchess.png)
+![GChess Interface](/source/gchess.png)
 
 ## Features
   - All standard chess rules, including castling, promoting, checks and checkmates
