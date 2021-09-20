@@ -10,6 +10,8 @@ Fully functioning chess with included AI opponent (eventually)
 ## Todo
   - Implement chess engine using alpha-beta pruning
 
-## How to build
+## How to build/play
   - Build using included makefile
   - Build using included Visual Studio solution
+  - Use provided executable
+  - Note that this project is dependent on libraries libpng16-16, SDL2, SDL2_image, and zlib1
